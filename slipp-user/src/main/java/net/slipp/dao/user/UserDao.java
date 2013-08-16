@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import net.slipp.domain.user.User;
-
+//
 public class UserDao {
 	private static Map<String, User> users = new HashMap<String, User>();
 	
